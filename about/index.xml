@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on o9uz.dev</title>
+    <link>https://www.o9uz.dev/about/</link>
+    <description>Recent content in About on o9uz.dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Apr 2020 11:11:11 +0300</lastBuildDate><atom:link href="https://www.o9uz.dev/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
