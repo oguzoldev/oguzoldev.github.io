@@ -7,7 +7,7 @@
 <meta name="google-site-verification" content="Ly3PtN3gACOcWuYNGJh2LEM7w3q-juLFxct6WaOdWF4" />
 <meta name="author" content="o9uz.dev">
 <meta name="description" content="personal home page">
-<meta name="generator" content="Hugo 0.89.2" />
+<meta name="generator" content="Hugo 0.101.0" />
 <title>macOS: Xcrun Error Invalid Active Developer Path, Missing Xcrun</title>
 <link rel="shortcut icon" href="https://www.o9uz.dev/images/favicon.ico">
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.o9uz.dev/images/apple-touch-icon.png">
@@ -87,15 +87,15 @@ $ brew update xcrun: error: invalid active developer path (/Library/Developer/Co
     <section id="post-body">
         <p><img src="/images/macos-xcrun-error-invalid-active-developer-path-missing-xcrun.jpg" alt="macos-xcrun-error-invalid-active-developer-path-missing-xcrun"></p>
 <p>I ran into this error when I tried any <code>brew</code> operation (like <code>brew update</code> and <code>brew upgrade</code>) on a Mac. I had just upgraded to macOS Big Sur 11.1 and suddenly brew broke!</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ brew update
-
-xcrun: error: invalid active developer path <span style="color:#f92672">(</span>/Library/Developer/CommandLineTools<span style="color:#f92672">)</span>,
-missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
-</code></pre></div><p>The fix, luckily, is pretty straight forward. Install the Xcode toolkit! Even if you had it installed before, you might have to re-register it or update it to the latest version.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ xcode-select --install
-</code></pre></div><p>If that doesn’t work, force it to reset. You’ll need <code>sudo</code> access for this one.</p>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash">$ sudo xcode-select --reset
-</code></pre></div><p>If even that fails, go to the <a href="https://developer.apple.com/download/more/">Apple developer download section</a> and download Xcode manually.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ brew update
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>xcrun: error: invalid active developer path <span style="color:#f92672">(</span>/Library/Developer/CommandLineTools<span style="color:#f92672">)</span>,
+</span></span><span style="display:flex;"><span>missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
+</span></span></code></pre></div><p>The fix, luckily, is pretty straight forward. Install the Xcode toolkit! Even if you had it installed before, you might have to re-register it or update it to the latest version.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ xcode-select --install
+</span></span></code></pre></div><p>If that doesn’t work, force it to reset. You’ll need <code>sudo</code> access for this one.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>$ sudo xcode-select --reset
+</span></span></code></pre></div><p>If even that fails, go to the <a href="https://developer.apple.com/download/more/">Apple developer download section</a> and download Xcode manually.</p>
 
     </section>
 </article>
@@ -188,7 +188,7 @@ missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun
     
     <p class="small">
     
-        © Copyright 2021 o9uz.dev
+        © Copyright 2022 o9uz.dev
     
     </p>
 </footer>
