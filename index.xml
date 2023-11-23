@@ -21,27 +21,26 @@ $ brew update xcrun: error: invalid active developer path (/Library/Developer/Co
       <link>https://www.o9uz.dev/posts/i-met-the-computer/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0300</pubDate>
       <guid>https://www.o9uz.dev/posts/i-met-the-computer/</guid>
-      <description>Today is September 11 Monday.
-It was the first day of school. I had very excited. We had waited in front of the computer classroom for the first lesson. Finally! The teacher opened the door. It was a dark room with a black curtain. Inside the room, there were many tables and in each table there was one computer. They were IBM 8086 PC30.
-The teacher took us in. We sat down on the tables.</description>
+      <description>Today is the second week of September, and it&amp;rsquo;s Monday.
+It was the first day of school, and I was very excited. We were going to meet the computer. We waited in front of the computer classroom for the first lesson. Finally, the teacher opened the door to the classroom. It was a dark room with black curtains. Inside, there were many tables, and each table had a computer. They were all IBM 8086 PC30 models.</description>
     </item>
     <item>
-      <title>Electronic Circuits</title>
-      <link>https://www.o9uz.dev/posts/electronic-circuits/</link>
+      <title>Curiosity about Electronic Circuit and Components</title>
+      <link>https://www.o9uz.dev/posts/curiosity-about-electronic-circuit-and-components/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
-      <guid>https://www.o9uz.dev/posts/electronic-circuits/</guid>
-      <description>I had always been a child who wondered. What is what? How it works?
-I had interested in electronic circuit components and electronic circuits until I meet the computer. I made many electronics circuits flip-flops, amplifiers, FM-Radio, PIC16F87, etc. Right now I develop electronics projects and Machine Learning applications with Arduino, Raspberry Pi, and Nvidia Jetson.
-One time, When I was 15, I made FM-Radio with my grandpa. He had wonder like me, and he always has liked new things.</description>
+      <guid>https://www.o9uz.dev/posts/curiosity-about-electronic-circuit-and-components/</guid>
+      <description>I have always been a curious child. What is this? How does it work? I wonder what&amp;rsquo;s inside?
+Initially, I was interested in electronic circuit components and circuits until I got acquainted with the computer. I had created many electronic circuits: flip-flops, amplifiers, FM Radio, PIC16F87, etc. I developed electronic projects and Image Recognition applications with Arduino, Raspberry Pi, and Nvidia Jetson.
+Once, when I was 15, I built an FM Radio transmitter with my grandfather.</description>
     </item>
     <item>
       <title>Hello World!</title>
       <link>https://www.o9uz.dev/posts/hello-world/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
       <guid>https://www.o9uz.dev/posts/hello-world/</guid>
-      <description>For a long time, I want to write a blog, and I&amp;rsquo;m here. Here we go.
-I preferred to start with Hugo for my blog, but I had thought Jekyll previously. Nowadays, I interested in Golang, therefore, I preferred Hugo. My website preparation works will continue for a while. Thank you for your patience.
-On my personal website, you’ll find the programs I use, my love of code, techs I use, and my ever-evolving workspace.</description>
+      <description>I&amp;rsquo;ve been wanting to write a blog for a long time, and here I am.
+Initially, I had considered Jekyll for the blog, but I ended up choosing Hugo. I have an interest in the Go (Golang) language, so that&amp;rsquo;s why I opted for Hugo.
+On my personal website, I&amp;rsquo;ll try to share the programs I use, my passion for coding, the technologies I utilize, and my continually evolving workspace.</description>
     </item>
   </channel>
 </rss>
