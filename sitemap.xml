@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.o9uz.dev/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</loc>
+    <loc>http://localhost:1313/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</loc>
     <lastmod>2020-12-15T21:10:53+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-12-15T21:10:53+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2020-12-15T21:10:53+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/posts/i-met-the-computer/</loc>
+    <loc>http://localhost:1313/posts/i-met-the-computer/</loc>
     <lastmod>2020-04-22T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/posts/curiosity-about-electronic-circuit-and-components/</loc>
+    <loc>http://localhost:1313/posts/curiosity-about-electronic-circuit-and-components/</loc>
     <lastmod>2020-04-21T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2020-04-20T11:11:11+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/posts/hello-world/</loc>
+    <loc>http://localhost:1313/posts/hello-world/</loc>
     <lastmod>2020-04-20T00:00:00+03:00</lastmod>
   </url><url>
-    <loc>https://www.o9uz.dev/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://www.o9uz.dev/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

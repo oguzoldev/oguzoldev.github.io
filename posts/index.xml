@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on o9uz.dev</title>
-    <link>https://www.o9uz.dev/posts/</link>
-    <description>Recent content in Posts on o9uz.dev</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Posts on oguzoldev</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on oguzoldev</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Dec 2020 21:10:53 +0300</lastBuildDate>
-    <atom:link href="https://www.o9uz.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>macOS: Xcrun Error Invalid Active Developer Path, Missing Xcrun</title>
-      <link>https://www.o9uz.dev/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</link>
+      <link>http://localhost:1313/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</link>
       <pubDate>Tue, 15 Dec 2020 21:10:53 +0300</pubDate>
-      <guid>https://www.o9uz.dev/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</guid>
+      <guid>http://localhost:1313/posts/macos-xcrun-error-invalid-active-developer-path-missing-xcrun/</guid>
       <description>I ran into this error when I tried any brew operation (like brew update and brew upgrade) on a Mac. I had just upgraded to macOS Big Sur 11.1 and suddenly brew broke!&#xA;$ brew update xcrun: error: invalid active developer path (/Library/Developer/CommandLineTools), missing xcrun at: /Library/Developer/CommandLineTools/usr/bin/xcrun The fix, luckily, is pretty straight forward. Install the Xcode toolkit! Even if you had it installed before, you might have to re-register it or update it to the latest version.</description>
     </item>
     <item>
       <title>I met the computer</title>
-      <link>https://www.o9uz.dev/posts/i-met-the-computer/</link>
+      <link>http://localhost:1313/posts/i-met-the-computer/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0300</pubDate>
-      <guid>https://www.o9uz.dev/posts/i-met-the-computer/</guid>
+      <guid>http://localhost:1313/posts/i-met-the-computer/</guid>
       <description>Today is the second week of September, and it&amp;rsquo;s Monday.&#xA;It was the first day of school, and I was very excited. We were going to meet the computer. We waited in front of the computer classroom for the first lesson. Finally, the teacher opened the door to the classroom. It was a dark room with black curtains. Inside, there were many tables, and each table had a computer. They were all IBM 8086 PC30 models.</description>
     </item>
     <item>
       <title>Curiosity about Electronic Circuit and Components</title>
-      <link>https://www.o9uz.dev/posts/curiosity-about-electronic-circuit-and-components/</link>
+      <link>http://localhost:1313/posts/curiosity-about-electronic-circuit-and-components/</link>
       <pubDate>Tue, 21 Apr 2020 00:00:00 +0300</pubDate>
-      <guid>https://www.o9uz.dev/posts/curiosity-about-electronic-circuit-and-components/</guid>
+      <guid>http://localhost:1313/posts/curiosity-about-electronic-circuit-and-components/</guid>
       <description>I have always been a curious child. What is this? How does it work? I wonder what&amp;rsquo;s inside?&#xA;Initially, I was interested in electronic circuit components and circuits until I got acquainted with the computer. I had created many electronic circuits: flip-flops, amplifiers, FM Radio, PIC16F87, etc. I developed electronic projects and Image Recognition applications with Arduino, Raspberry Pi, and Nvidia Jetson.&#xA;Once, when I was 15, I built an FM Radio transmitter with my grandfather.</description>
     </item>
     <item>
       <title>Hello World!</title>
-      <link>https://www.o9uz.dev/posts/hello-world/</link>
+      <link>http://localhost:1313/posts/hello-world/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
-      <guid>https://www.o9uz.dev/posts/hello-world/</guid>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
       <description>I&amp;rsquo;ve been wanting to write a blog for a long time, and here I am.&#xA;Initially, I had considered Jekyll for the blog, but I ended up choosing Hugo. I have an interest in the Go (Golang) language, so that&amp;rsquo;s why I opted for Hugo.&#xA;On my personal website, I&amp;rsquo;ll try to share the programs I use, my passion for coding, the technologies I utilize, and my continually evolving workspace.</description>
     </item>
   </channel>
